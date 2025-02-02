@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">I'm Nino from Italy 🍝<br><br>- 📚 I'm currently learning DevOps, programming, UX and UI<br>- 🧘🏻 In my free time I love enjoying the moment, reading and of course coding.<br>-  🗣️ I am young and eager to expand my technical knowledge. Always looking for new opportunities to grow both professionally and personally.</p>
+<p align="left">I'm Nino from Italy 🍝<br><br>- 📚 I'm currently learning DevOps, programming, UX and UI<br>- 🧘🏻 In my free time I love enjoying the moment, reading and of course coding.<br>-  🗣️  I am always ready to improve my technical knowledge. Always looking for new opportunities for both professional and personal growth
+</p>
 
 ###
 
